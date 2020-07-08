@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2da15bc0-38aa-4fea-97a8-2e32e9dc3bbe" name="rumms" url="http://rumms.ru">
+        <fileTransfer host="rumms.ru" port="21" rootFolder="/web/map.rumms.ru/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
